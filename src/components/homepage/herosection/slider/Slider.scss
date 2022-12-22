@@ -1,0 +1,16 @@
+.slider-container {
+  justify-content: space-evenly;
+  overflow: hidden;
+
+  .slider {
+    display: flex;
+    overflow-x: scroll;
+
+    img {
+      padding-right: 13px;
+    }
+  }
+  .slider::-webkit-scrollbar {
+    display: none;
+  }
+}

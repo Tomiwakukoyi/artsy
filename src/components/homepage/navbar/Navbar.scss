@@ -1,0 +1,54 @@
+.nav-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+
+  .logo {
+    width: 113px;
+    height: 90px;
+    margin-top: 52px;
+    font-family: "STIX Two Text";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: #292929;
+    cursor: pointer;
+  }
+
+  .menus {
+    ul {
+      display: flex;
+      li {
+        margin-right: 25px;
+        margin-top: 56px;
+        height: 32px;
+        font-family: "Satoshi";
+        font-style: normal;
+        font-weight: 520;
+        font-size: 21px;
+        color: #292929;
+        cursor: pointer;
+      }
+
+      .menu::before {
+        transition: 300ms;
+        height: 1.5px;
+        content: "";
+        position: absolute;
+        background: #292929;
+      }
+      .menu-trans::before {
+        width: 0%;
+        margin-top: 20px;
+      }
+      .menu-trans:hover::before {
+        width: 40px;
+      }
+    }
+  }
+
+  .nav-icons {
+    display: flex;
+    margin-top: 56px;
+  }
+}

@@ -1,0 +1,36 @@
+.midproduct_container {
+  font-family: "Satoshi";
+  font-style: normal;
+  height: 405px;
+  .line1 {
+    width: 1200.06px;
+    margin-left: 120px;
+    margin-top: 25px;
+    border: 0.2px solid #7e7c7c;
+  }
+  .product {
+    display: flex;
+    .picture {
+      img {
+        margin-top: 60px;
+        height: 280px;
+        width: 550px;
+      }
+    }
+    .text {
+      h1 {
+        margin-left: 120px;
+        width: 100%;
+        margin-top: 50px;
+      }
+      p {
+        margin-left: 120px;
+        width: 540px;
+        height: 128px;
+        margin-top: 28px;
+        font-weight: 400;
+        font-size: 24px;
+      }
+    }
+  }
+}
