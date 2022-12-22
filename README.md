@@ -7,3 +7,5 @@ The project is a multipage website made with React and its best practices
 - I use Icons from Icon scout library on this project for the few icons i needed.
 - I also ensured i used the full power of react and components by breaaking things down to the minimum while
 ensuring proper folder structure.
+
+NB : only available on large screens for now.
