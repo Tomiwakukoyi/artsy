@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/artsy/static/css/main.9e9ea64f.css",
+    "main.js": "/artsy/static/js/main.f31ccf0a.js",
+    "static/media/product2.png": "/artsy/static/media/product2.2fd85b4c0bfc32540dd5.png",
+    "static/media/slider4.png": "/artsy/static/media/slider4.9c52a2776a197945ba05.png",
+    "static/media/slider3.png": "/artsy/static/media/slider3.3a00fecbbee5cfe400a1.png",
+    "static/media/slider1.png": "/artsy/static/media/slider1.b14a5f710f05903bf308.png",
+    "static/media/product1.png": "/artsy/static/media/product1.19c6b9d5b9d18f900b4e.png",
+    "static/media/product3.png": "/artsy/static/media/product3.39b391c6eca99cabd81f.png",
+    "static/media/slider5.png": "/artsy/static/media/slider5.3e4c16d83e1963000acd.png",
+    "static/media/slider2.png": "/artsy/static/media/slider2.7c870a53927c54e79b7d.png",
+    "index.html": "/artsy/index.html",
+    "main.9e9ea64f.css.map": "/artsy/static/css/main.9e9ea64f.css.map",
+    "main.f31ccf0a.js.map": "/artsy/static/js/main.f31ccf0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9ea64f.css",
+    "static/js/main.f31ccf0a.js"
+  ]
+}
